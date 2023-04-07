@@ -1,9 +1,9 @@
 {
-    "data": [
+    "users": [
         {
-            "username": "",
-            "email": "",
-            "authkey": "",
+            "username": "test-user",
+            "email": "johndoe@domain.com",
+            "authkey": "935e383e-4b92-4acc-9858-e89054284fc7",
             "level": 0
         }
     ]
